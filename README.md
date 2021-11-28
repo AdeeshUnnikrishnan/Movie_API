@@ -3,6 +3,7 @@ A Sample demonstration of movie db using Flask API.
 # Installation (Packages):
 * pip install these packets</br>
 flask </br>
+flask_sqlalchemy </br>
 jwt </br>
 pyjwt </br>
 uuid </br>
