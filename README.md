@@ -5,7 +5,7 @@ A Sample demonstration of movie db using Flask API.
 flask </br>
 jwt </br>
 pyjwt </br>
-uuid
+uuid </br>
 werkzeug
 
 # Initialising the DB:
