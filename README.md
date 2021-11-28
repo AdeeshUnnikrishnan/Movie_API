@@ -4,7 +4,7 @@ A Sample demonstration of movie db using Flask API.
 * pip install these packets</br>
 flask </br>
 jwt </br>
-pyjwtb </br>
+pyjwt </br>
 uuid
 werkzeug
 
